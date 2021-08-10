@@ -1,0 +1,3 @@
+/Users/juliaaraujo/CLionProjects/execGrupo16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/juliaaraujo/CLionProjects/execGrupo16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/juliaaraujo/CLionProjects/execGrupo16/cmake-build-debug/CMakeFiles/execGrupo16.dir
